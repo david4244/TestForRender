@@ -13,11 +13,19 @@ export default defineComponent({
 
 <template>
 
+  <div>
+  <H1><b><center>Réka A Király</center></b></H1>
+  </div>
 
-<ISBN></ISBN>
+<!--<ISBN></ISBN>-->
+
+
 
 </template>
 
 <style scoped>
-
+div {
+  font-size: 100pt;
+  color: red;
+}
 </style>

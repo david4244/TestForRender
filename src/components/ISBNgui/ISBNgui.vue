@@ -6,7 +6,7 @@ import Validator from "@/components/Validator/Validator.vue";
 export default defineComponent( {
 
   components: {
-    'validator': Validator
+    // 'validator': Validator
 
   },
   name: "ISBN",
